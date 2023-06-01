@@ -1,0 +1,224 @@
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\uspehB6.dll.config
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\uspehB6.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\uspehB6.pdb
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csc.exe
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csc.exe.config
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csc.rsp
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csi.exe
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csi.exe.config
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csi.rsp
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.AppContext.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Collections.Immutable.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Console.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.Compression.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.FileSystem.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.Pipes.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Reflection.Metadata.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.AccessControl.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Claims.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Principal.Windows.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.ValueTuple.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Xml.XPath.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\vbc.exe
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\vbc.exe.config
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\vbc.rsp
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\VBCSCompiler.exe
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\VBCSCompiler.exe.config
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.csprojAssemblyReference.cache
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.CoreCompileInputs.cache
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.CopyComplete
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.dll
+F:\DISK E\srecko\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.pdb
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\uspehB6.dll.config
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\uspehB6.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\uspehB6.pdb
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csc.exe
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csc.exe.config
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csc.rsp
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csi.exe
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csi.exe.config
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\csi.rsp
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.AppContext.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Collections.Immutable.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Console.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.Compression.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.FileSystem.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.IO.Pipes.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Reflection.Metadata.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.AccessControl.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Claims.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.ValueTuple.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Xml.XPath.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\vbc.exe
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\vbc.exe.config
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\vbc.rsp
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\VBCSCompiler.exe
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\roslyn\VBCSCompiler.exe.config
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.csprojAssemblyReference.cache
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.CoreCompileInputs.cache
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.CopyComplete
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.dll
+D:\SRECKO STARIDISK\VEBPROGRAMIRANJ4120222023\PIT1grupa\uspehB6\uspehB6\obj\Debug\uspehB6.pdb
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\uspehB6.dll.config
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\uspehB6.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\uspehB6.pdb
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\csc.exe
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\csc.exe.config
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\csc.rsp
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\csi.exe
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\csi.exe.config
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\csi.rsp
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.AppContext.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Collections.Immutable.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Console.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.IO.Compression.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.IO.FileSystem.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.IO.Pipes.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Security.AccessControl.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Security.Claims.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.ValueTuple.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Xml.XPath.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\vbc.exe
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\vbc.exe.config
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\vbc.rsp
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\VBCSCompiler.exe
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\roslyn\VBCSCompiler.exe.config
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\obj\Debug\uspehB6.csprojAssemblyReference.cache
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.CoreCompileInputs.cache
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.CopyComplete
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\obj\Debug\uspehB6.dll
+C:\Luka Vukasinovic 4-1\WEB_Programiranje\Maturski zadaci\uspehB6\uspehB6\obj\Debug\uspehB6.pdb
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\uspehB6.dll.config
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\uspehB6.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\uspehB6.pdb
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\csc.exe
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\csc.exe.config
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\csc.rsp
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\csi.exe
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\csi.exe.config
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\csi.rsp
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.AppContext.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Console.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.IO.Compression.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Security.Claims.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.ValueTuple.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\vbc.exe
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\vbc.exe.config
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\vbc.rsp
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\Desktop\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\uspehB6\uspehB6\obj\Debug\uspehB6.csproj.CopyComplete
+C:\Users\acer\Desktop\uspehB6\uspehB6\obj\Debug\uspehB6.dll
+C:\Users\acer\Desktop\uspehB6\uspehB6\obj\Debug\uspehB6.pdb
